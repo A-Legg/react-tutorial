@@ -1,0 +1,2 @@
+class RecorcsController < ApplicationController
+end
